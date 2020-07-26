@@ -1,7 +1,5 @@
 package com.example.simplefirebasenotification;
 
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.app.ActivityManager;
 import android.content.Context;
 import android.content.Intent;
@@ -11,6 +9,8 @@ import android.os.Bundle;
 import android.os.Environment;
 import android.os.StatFs;
 import android.widget.TextView;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -24,6 +24,8 @@ public class MainActivity extends AppCompatActivity {
     InputStream inputStream;
     Process process ;
     byte[] byteArry ;
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -134,6 +136,7 @@ public class MainActivity extends AppCompatActivity {
         }
 
     }
+
 
 
 }
