@@ -8,35 +8,6 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:801637975134:android:714a362247b3188ee160cf",
-        "android_client_info": {
-          "package_name": "com.example.emptyactivity"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "801637975134-bo49uqoam1gi5m8tj2c4b9clrehif1ph.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyB_jVeyCj98EbOrHInNBm-kFjBr2MUoePM"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "801637975134-bo49uqoam1gi5m8tj2c4b9clrehif1ph.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
         "mobilesdk_app_id": "1:801637975134:android:b4e9b4434d8d6eb3e160cf",
         "android_client_info": {
           "package_name": "com.example.simplefirebasenotification"
